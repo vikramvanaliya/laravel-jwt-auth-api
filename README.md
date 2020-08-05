@@ -1,8 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-<h1>laravel-jwt-auth</h1>
-
-## About Laravel JWT Auth API
+<h1>Laravel 7 API Using JWT Authentication</h1>
 Hi guys, In this Project we will create a secure API in Laravel using the JSON Web Token (JWT). To secure the User Authentication API in Laravel 7, we will use the third-party jwt-auth library, Timondizins / jwt-auth.
 
 <p><a href="https://www.phpicoder.com/post/laravel-7-api-using-jwt-authentication" rel="nofollow">Laravel 7 JWT Authentication Tutorial: User Login &amp; Signup API</a></p>
